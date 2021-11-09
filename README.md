@@ -14,5 +14,5 @@ Ofiicial github organization page: [https://github.com/url-kaist](https://github
 
 Official site: [https://urobot.kaist.ac.kr/](https://urobot.kaist.ac.kr/)
 
-📫 PI: Prof. Hyun Myung (hmyung@kaist.ac.kr)
+📫 PI: [Prof. Hyun Myung](https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/) (E-mail: hmyung@kaist.ac.kr)
 
