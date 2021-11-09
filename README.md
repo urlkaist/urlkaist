@@ -3,13 +3,13 @@
 ### Hi there! We're Urban Robotics Lab. @ KAIST, South Korea 👋
 
 Our research interest includes, but not confined to
+- :world_map: Simultaneous Localization and Mapping (SLAM)
+- :oncoming_automobile: Autonomous Driving
+- :camera: Visual Inertial SLAM
+- Machine Learning & AI
+- :robot: Future Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
+Please visit our [official organization github page](https://github.com/url-kaist)
 
-📫 PI: Prof. Hyung Myung (hmyung@kaist.ac.kr)
+📫 PI: Prof. Hyun Myung (hmyung@kaist.ac.kr)
 
