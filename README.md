@@ -6,10 +6,11 @@ Our research interest includes, but not confined to
 - :world_map: Simultaneous Localization and Mapping (SLAM)
 - :oncoming_automobile: Autonomous Driving
 - :camera: Visual Inertial SLAM
-- Machine Learning & AI
+- :airplane: Unmanned Aerial Vehicle (UAV)
+- :brain: Machine Learning & AI
 - :robot: Future Robotics
 
-Please visit our [official organization github page](https://github.com/url-kaist)
+Please visit our [official organization github page](https://github.com/url-kaist) :laughing:
 
 📫 PI: Prof. Hyun Myung (hmyung@kaist.ac.kr)
 
