@@ -12,8 +12,6 @@ Our research interest includes, but not confined to
 - :brain: Machine Learning & AI (in particular, Spatial AI)
 - :robot: Future Robotics
 
-Ofiicial github organization page: [https://github.com/url-kaist](https://github.com/url-kaist)
-
 Official site: [https://urobot.kaist.ac.kr/](https://urobot.kaist.ac.kr/)
 
 📫 PI: [Prof. Hyun Myung](https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/) (E-mail: hmyung@kaist.ac.kr)
