@@ -21,6 +21,8 @@ Official site: [https://urobot.kaist.ac.kr/](https://urobot.kaist.ac.kr/)
 
 ## 📌 Pinned repos 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimHyungTae&repo=ERASOR&theme=chartreuse-dark)](https://github.com/LimHyungTae/ERASOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimHyungTae&repo=patchwork&theme=chartreuse-dark)](https://github.com/LimHyungTae/patchwork)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zinuok&repo=kaistviodataset&theme=chartreuse-dark)](https://github.com/zinuok/kaistviodataset)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-application&theme=chartreuse-dark)](https://github.com/engcang/vins-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ros-yolo-sort&theme=chartreuse-dark)](https://github.com/engcang/ros-yolo-sort)
 
