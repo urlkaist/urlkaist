@@ -19,7 +19,7 @@ Official site: [https://urobot.kaist.ac.kr/](https://urobot.kaist.ac.kr/)
 📫 PI: [Prof. Hyun Myung](https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/) (E-mail: hmyung@kaist.ac.kr)
 
 
-## 📌 Pinned repos 📌
+### 📌 Pinned repos 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-application&theme=chartreuse-dark)](https://github.com/engcang/vins-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=SLAM-application&theme=chartreuse-dark)](https://github.com/engcang/SLAM-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimHyungTae&repo=ERASOR&theme=chartreuse-dark)](https://github.com/LimHyungTae/ERASOR)
