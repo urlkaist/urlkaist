@@ -7,7 +7,7 @@ Our research interest includes, but not confined to
 - :oncoming_automobile: Autonomous Driving
 - :camera: Visual Inertial SLAM
 - :airplane: Unmanned Aerial Vehicle (UAV)
-- :brain: Machine Learning & AI
+- :brain: Machine Learning & AI (in particular, Spatial AI)
 - :robot: Future Robotics
 
 Ofiicial github organization page: [https://github.com/url-kaist](https://github.com/url-kaist)
