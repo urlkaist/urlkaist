@@ -30,9 +30,5 @@ Official site: [https://urobot.kaist.ac.kr/](https://urobot.kaist.ac.kr/)
 
 
 
-<details><summary>[click to see members]</summary>
+Click to see [members!](https://urobot.kaist.ac.kr/Current/) :satisfied:
     
-Hello there
-  
-Hyungtae Lim
----
