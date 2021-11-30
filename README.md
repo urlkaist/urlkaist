@@ -14,7 +14,7 @@ Our research interest includes, but not confined to
 
 Official site: [https://urobot.kaist.ac.kr/](https://urobot.kaist.ac.kr/)
 
-📫 PI: [Prof. Hyun Myung](https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/) (E-mail: hmyung@kaist.ac.kr)
+📫 PI: [Prof. Hyun Myung](https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/) (E-mail: `hmyung at kaist dot ac dot kr`)
 
 
 ### 📌 Pinned repos 
